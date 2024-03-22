@@ -6,12 +6,12 @@ import { exponentToBigDecimal, safeDiv } from "./index";
 import { createEmptyToken } from "./new";
 
 // prettier-ignore
-const WETH_ADDRESS = "0x85119527CF38f6cCf7b1b8f8FAD05145358Aaa81";
+const WETH_ADDRESS = "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81";
 // prettier-ignore
 const USDC_WETH_03_POOL = "0xeac8c29642b12231240bbc22004c8182d62d1c1a";
 
 export let WHITELIST_TOKENS: string[] =
-  "0x85119527CF38f6cCf7b1b8f8FAD05145358Aaa81,0x853e38D0B35D2df54d3d91c210b7BD7749d614E8,0x5d2d4baa31e79777383ac407d45495b44d0140b7".split(
+  "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81,0x853e38d0b35d2df54d3d91c210b7bd7749d614e8,0x5d2d4baa31e79777383ac407d45495b44d0140b7".split(
     ","
   );
 
