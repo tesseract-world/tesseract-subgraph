@@ -8,10 +8,10 @@ import { createEmptyToken } from "./new";
 // prettier-ignore
 const WETH_ADDRESS = "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81";
 // prettier-ignore
-const USDC_WETH_03_POOL = "0xeac8c29642b12231240bbc22004c8182d62d1c1a";
+const USDC_WETH_03_POOL = "0x03748173f92889f185ab521a6c3b01f33221d08d";
 
 export let WHITELIST_TOKENS: string[] =
-  "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81,0x853e38d0b35d2df54d3d91c210b7bd7749d614e8,0x5d2d4baa31e79777383ac407d45495b44d0140b7".split(
+  "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81,0x6A4a0C6f1F1644Cee981AC9a6d9f4Ff54AB3CD3D".split(
     ","
   );
 
