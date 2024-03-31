@@ -8,7 +8,7 @@ import { createEmptyToken } from "./new";
 // prettier-ignore
 const WETH_ADDRESS = "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81";
 // prettier-ignore
-const USDC_WETH_03_POOL = "0x03748173f92889f185ab521a6c3b01f33221d08d";
+const USDC_WETH_03_POOL = "0x0ca35880a4d3cb48138606965a872aa11d9ce7ff";
 
 export let WHITELIST_TOKENS: string[] =
   "0x85119527cf38f6ccf7b1b8f8fad05145358aaa81,0x6A4a0C6f1F1644Cee981AC9a6d9f4Ff54AB3CD3D".split(
